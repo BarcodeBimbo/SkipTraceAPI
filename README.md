@@ -1,6 +1,13 @@
-# SkipGenie API Manager (Quart + Hypercorn)
+# <div align="center">[Patched] SkipGenie API Manager (Quart + Hypercorn)</div>
 
 This project is an asynchronous RESTful API interface to automate interaction with SkipGenie, built using [Quart](https://pgjones.gitlab.io/quart/) and [Hypercorn](https://pgjones.gitlab.io/hypercorn/). It includes user search, creation, editing, and balance-checking capabilities through scraping and session-based interactions.
+
+The primary purpose of this project is to demonstrate how SkipGenie’s legacy authentication system was vulnerable to exploitation specifically, how it could be manipulated to grant unauthorized administrative access.
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4a9a9e47-a5b9-434d-b4a9-19e4851b1186" alt="" height="300">
+</div>
 
 ---
 
