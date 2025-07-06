@@ -27,7 +27,7 @@ The primary purpose of this project is to demonstrate how SkipGenie’s legacy a
 
 ```
 .
-├── app.py                # Main application script
+├── SkipTraceAPI.py                # Main application script
 ├── users_data.json       # Cache of user data
 ├── created_users.log     # Log of generated users
 ├── README.md             # Project description
